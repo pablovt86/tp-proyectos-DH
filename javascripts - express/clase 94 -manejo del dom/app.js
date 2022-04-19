@@ -1,0 +1,5 @@
+let $button = document.querySelector('button')
+$modal = document.querySelector('.modal-container')
+$button.onclick  = ()=> $modal.classList.remove('d-none')
+let $close = document.querySelector('.btn-close')
+$close.onclick = () => $modal.classList.add('d-none')

@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body {
+    background-color: var(--Gris-claro);
+    font-family:'Roboto', sans-serif;
+    font-size: 12px;
+}
+/* NAV */
+header nav ul #top-list{
+    margin-bottom:15px;
+
+ }
+ ul li a{
+    text-decoration: none;
+    color:#000000;
+}
+
+
+h5{
+    font-size: 16px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+/* body */
